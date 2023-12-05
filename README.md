@@ -1,2 +1,2 @@
 #reviow
-website : https://drerx.github.io/reviow/
+website : https://erdrx.github.io/reviow/
