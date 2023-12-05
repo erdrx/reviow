@@ -1,0 +1,15 @@
+ren "22dc8996e7110f329e734e62220f2f85_Image - Aeromonas spp. Edwardsiella tarda Erysipelothrix rhusiopathiae Vibrio vulnificus Mycobacterium marinum, Water.png" "22dc8996e7110f329e734e62220f2f85_Image RoshRename.png"
+ren "20215dbc46eb5537b4aa4564fa4eb923_Table - U.S. Labeling- Dose Conversion Guidelines to fentanyl transdermal patch, Transdermal, Opioid dosing conversion.png" "20215dbc46eb5537b4aa4564fa4eb923_Table RoshRename.png"
+ren "faa7ccdda621817a6c0e8bfa1ee8512d_Table - Typical Radiographic Characteristics of Pneumoconiosis, Asbestos, Beryllium, Coal, Cobalt, Silica, Talc @8x.png" "faa7ccdda621817a6c0e8bfa1ee8512d_Table RoshRename.png"
+ren "3f612d2dfef1e87e965562ad08c77159_Image - Steeple sign, Croup, Thumbprint sign, Epiglottitis, Subcutaneous emphysema, Prevertebral soft tissue widening.png" "3f612d2dfef1e87e965562ad08c77159_Image RoshRename.png"
+ren "540e8135e13345fa38e27dad505f5ba0_Table - PALS Pediatric Vital Signs, Hypotension, Blood Pressure, Respiratory Rate, RR, Heart Rate, HR, Pediatric @8x.png" "540e8135e13345fa38e27dad505f5ba0_Table RoshRename.png"
+ren "666a1ac03e11840b77ec43fc7b80b3a5_Table - Heart failure with preserved ejection fraction (HFpEF), Heart failure with reduced ejection fraction (HFrEF).png" "666a1ac03e11840b77ec43fc7b80b3a5_Table RoshRename.png"
+ren "8ce27c4fc75eb18f160ed1c71c2ec175_Table - Contraindications to Fibrinolytic Therapy for Deep Venous Thrombosis and Pulmonary Embolism, DVT, PE, Lytics..png" "8ce27c4fc75eb18f160ed1c71c2ec175_Table RoshRename.png"
+ren "b08211131820a827d4bb3d8401a85b7d_Table - Classic GI associations, malrotation, duodenal atresia, Hirshsprung, Pyloric stenosis, Necrotizing enterocolitis.png" "b08211131820a827d4bb3d8401a85b7d_Table RoshRename.png"
+ren "c91935727e220ffbd26aefa9a68d8d58_Image - Hierarchy of Evidence, Research Studies, Meta-Analysis, Randomized Control Trial, Cohort Study, Case Control  @8x.png" "c91935727e220ffbd26aefa9a68d8d58_Image RoshRename.png"
+ren "d032eea6c9fc60b80c8482c2b98714fa_Table - Antibiotic Regimens for Prevention of Endocarditis Prior to Procedures, Dental, Endocarditis, Prophylaxis @8x.png" "d032eea6c9fc60b80c8482c2b98714fa_Table RoshRename.png"
+ren "d5ce36ca43bb0c955649d6a48150eebf_Table - Adverse Effects of Nucleoside Nucleotide Reverse Transcriptase Inhibitors, HAART, HIV, AIDS, Antiretroviral @8x.jpg" "d5ce36ca43bb0c955649d6a48150eebf_Table RoshRename.jpg"
+ren "ddd648edc6c61ec51c0a16505e0a7fb6_Table - Electrolyte and acid base changes associated with purging, bulimia, anorexia, laxatives, vomiting, diuretics.png" "ddd648edc6c61ec51c0a16505e0a7fb6_Table RoshRename.png"
+ren "f50cca03b2f59975989b34db26ceb7b5_Table - Selected Pathogens Causing Encephalitis, Arbovirus, St. Louis, West Nile, Entervirus, HSV, Herpes simplex, Rabies.png" "f50cca03b2f59975989b34db26ceb7b5_Table RoshRename.png"
+
+
